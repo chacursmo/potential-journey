@@ -1,0 +1,28 @@
+html {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: purple;
+}
+.preheader {
+    height: 400px;
+}
+.header {
+    width: 100px;
+    margin: auto;
+    color: red;
+    text-align: center;
+}
+.theAction {
+    margin: auto;
+    width: 100px;
+    height: 100px;
+}
+#search {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    color: red;
+    font-size: 5em;
+}
